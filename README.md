@@ -1,6 +1,8 @@
 # 🖥 Ignite Feed
 Feed aplication created to simulate a post interation expectience using react to create a web app
 
+You can see the figma design for this application [here](https://www.figma.com/file/D6WIjWaebI1L2puvtb5kXr/Ignite-Feed-(Community)?node-id=1%3A35&t=e8EWlhkbeDFcNiIa-1).
+
 ## 📃 License:
 The MIT license was used in this project.
 
